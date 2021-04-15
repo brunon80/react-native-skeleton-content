@@ -81,7 +81,7 @@
     "react-native-gesture-handler": "^1.6.1"
   },
   "dependencies": {
-    "expo-linear-gradient": "^8.0.0",
+    "expo-linear-gradient": "~9.1.0",
     "react-native-reanimated": "1.9.0",
     "react-native-redash": "^14.1.1"
   }
